@@ -364,9 +364,6 @@
 				ENABLE_BITCODE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../React/**",
-					"$(SRCROOT)/../../react-native/React/**",
-					"$(SRCROOT)/../../react-native/Libraries/LinkingIOS",
 					"$(SRCROOT)/../../../ios/Pods/DCTAuth/DCTAuth",
 				);
 				LD_DYLIB_INSTALL_NAME = "";
@@ -391,9 +388,6 @@
 				ENABLE_BITCODE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../React/**",
-					"$(SRCROOT)/../../react-native/React/**",
-					"$(SRCROOT)/../../react-native/Libraries/LinkingIOS",
 					"$(SRCROOT)/../../../ios/Pods/DCTAuth/DCTAuth",
 				);
 				LD_DYLIB_INSTALL_NAME = "";
